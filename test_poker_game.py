@@ -1,4 +1,4 @@
-from poker import Poker
+from poker_logic import Poker
 
 class Test_Poker:
     """This is the code to start poker game.   
