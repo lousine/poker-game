@@ -11,7 +11,7 @@ class Test_Poker:
             numPlayers = eval( input ("Number of players: "))
         a=int(numPlayers)
         print("\n")
-        names= ["Gevorg", "Dan Bilzerian", "Lusine A", "Lusine Gh", "Yenok", "Gevorg 2", "Yenok 2"]
+        names= ["Gevorg", "Dan Bilzerian", "Lusine A", "Lusine Gh", "Yenok", "Gevorg 2", "Elon Musk"]
         b = "We have {} players: ".format(a)
         print(b)
         for i in range(a):
