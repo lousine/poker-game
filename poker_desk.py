@@ -1,5 +1,5 @@
 import random
-from card import Card
+from poker_card import Card
 
 class Poker_Deck (object):
   """
