@@ -1,4 +1,4 @@
-from desk import Poker_Deck
+from poker_desk import Poker_Deck
 import math
 
 class Poker (object):
